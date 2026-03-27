@@ -2,3 +2,30 @@
     box-sizing: border-box;
 }
 
+.tittle {
+    background-color: pink;
+    color: white;
+}
+
+.p1 {
+    color: yellow;
+}
+
+.p2 {
+    color: lawngreen;
+}
+
+.p3 {
+    color: cadetblue;
+}
+
+.border1{
+    margin: 60px;
+    background-color: white;
+    
+
+}
+
+.color{
+    background-color: gray;
+}
