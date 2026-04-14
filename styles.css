@@ -23,8 +23,9 @@
     content: 70px;
     height: 25px; 
     background-color: white;
-    padding: 32px; background-color: orange;
-    
+    padding: 50px; background-color: white;
+    border: 5px solid orange;
+
 }
 
 .color{
