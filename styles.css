@@ -16,12 +16,15 @@
 }
 
 .p3 {
-    color: cadetblue;
+    color: cyan;
 }
 
 .border1{
-    margin: 60px;
+    content: 70px;
+    height: 25px; 
     background-color: white;
+    padding: 15px; background-color: orange;
+    
     
 
 }
@@ -31,5 +34,5 @@
 }
 
 p{
-    color: white:
+    color: white;
 }
